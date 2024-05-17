@@ -1,0 +1,17 @@
+﻿  AVbases.cpp
+  binser.cpp
+C:\Users\79195\Desktop\RBPO\AntimalvareService\binser.cpp(71,66): warning C4244: аргумент: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+C:\Users\79195\Desktop\RBPO\AntimalvareService\binser.cpp(78,88): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\79195\Desktop\RBPO\AntimalvareService\binser.cpp(153,112): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\79195\Desktop\RBPO\AntimalvareService\binser.cpp(161,96): warning C4244: аргумент: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+  Main.cpp
+C:\Users\79195\Desktop\RBPO\AntimalvareService\Main.cpp(73,60): warning C4311: приведение типов: усечение указателя из "void *" в "int"
+C:\Users\79195\Desktop\RBPO\AntimalvareService\Main.cpp(73,60): warning C4302: приведение типов: усечение из "void *" к "int"
+C:\Users\79195\Desktop\RBPO\AntimalvareService\Main.cpp(631,3): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+C:\Users\79195\Desktop\RBPO\AntimalvareService\Main.cpp(647,3): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+  filestream.cpp
+  pipeclientstream.cpp
+  scanengine.cpp
+C:\Users\79195\Desktop\RBPO\AntimalvareService\scanengine.cpp(62,60): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода...
+  AntimalvareService.vcxproj -> C:\Users\79195\Desktop\RBPO\AntimalvareService\x64\Debug\AntimalvareService.exe

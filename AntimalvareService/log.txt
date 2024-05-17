@@ -1,0 +1,98 @@
+C:\Users\79195\Desktop\RBPO\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 189447008
+RegisterServiceCtrlHandler success....
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 3
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\79195\Desktop\RBPO\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-4154152841-2571080950-4029895734-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\79195\Desktop\RBPO\AntimalvareService\output.bin opened successfully.
+512
+C:\Users\79195\Desktop\RBPO\AntimalvareService\av3.bin opened successfully.
+Count = 
+3
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+7
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+9
+name success
+prefix success
+len success
+hash success
+offStart success
+offEnd success
+size = 
+6
+name success
+bases succesfully read!
+_tmain func Start...
+argc = 1
+Service Starting at....
+hServiceStatusHandle = 1671678432
+RegisterServiceCtrlHandler success....
+Service status initial setup success....
+try open signatureBases
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 3
+Session ID = 1
+Service is running....
+StartUiProcessInSession wtsSession = 1
+Starting  "C:\Users\79195\Desktop\RBPO\AntimalvareService\x64\Debug\Graphic.Ui.exe
+path = \\.\pipe\AntimalwareServiceIPC\1
+pipeSddl = O:SYG:SYD:(A;OICI;GA;;;S-1-5-21-4154152841-2571080950-4029895734-1001)
+Creating SA for pipe....
+Creating pipe....
+Creating process....
+Process created....
+Check1
+C:\Users\79195\Desktop\RBPO\AntimalvareService\output.bin opened successfully.
+512

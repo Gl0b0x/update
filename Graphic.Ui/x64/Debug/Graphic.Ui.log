@@ -1,0 +1,4 @@
+﻿  Graphic.Ui.cpp
+C:\Users\79195\Desktop\RBPO\Graphic.Ui\Graphic.Ui.cpp(503,9): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+C:\Users\79195\Desktop\RBPO\Graphic.Ui\Graphic.Ui.cpp(519,9): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+  Graphic.Ui.vcxproj -> C:\Users\79195\Desktop\RBPO\AntimalvareService\x64\Debug\Graphic.Ui.exe
